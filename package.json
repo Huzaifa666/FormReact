@@ -3,7 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@wojtekmaj/react-datetimerange-picker": "^2.1.0",
+    "bootstrap": "^4.3.1",
+    "input-moment": "^0.4.0",
+    "moment": "^2.24.0",
     "react": "^16.8.6",
+    "react-advanced-datetimerange-picker": "^1.0.2",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
